@@ -17,7 +17,7 @@ Pergunta 7: R$ 3.000
 Pergunta 8: R$ 5.000
 Pergunta 9: R$ 10.000
 
-**Nível 3 - Perguntas Difíceis (R$ 20.000 a R$ 100.000):
+## Nível 3 - Perguntas Difíceis (R$ 20.000 a R$ 100.000):
 
 -4 perguntas avançadas (total: R$ 100.000).
 Pergunta 10: R$ 20.000
@@ -34,7 +34,7 @@ Pergunta 15: R$ 1.000.000
 TOTAL : 15 perguntas
 
 
-Banco de perguntas:
+# Banco de perguntas:
 
 ## Nível 1: Perguntas Fáceis
 
