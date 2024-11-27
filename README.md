@@ -1,6 +1,6 @@
-***Estrutura de perguntas e valores***
+# **Estrutura de perguntas e valores**
 
-**Nível 1 - Perguntas Fáceis (R$ 1 a R$ 1.000):
+## Nível 1 - Perguntas Fáceis (R$ 1 a R$ 1.000):
 
 -5 perguntas iniciais (total: R$ 1.000).
 Pergunta 1: R$ 1
@@ -9,7 +9,7 @@ Pergunta 3: R$ 100
 Pergunta 4: R$ 500
 Pergunta 5: R$ 1.000
 
-**Nível 2 - Perguntas Moderadas (R$ 2.000 a R$ 10.000):
+## Nível 2 - Perguntas Moderadas (R$ 2.000 a R$ 10.000):
 
 -4 perguntas intermediárias (total: R$ 10.000).
 Pergunta 6: R$ 2.000
@@ -25,7 +25,7 @@ Pergunta 11: R$ 30.000
 Pergunta 12: R$ 50.000
 Pergunta 13: R$ 100.000
 
-**Nível 4 - Perguntas Avançadas (R$ 200.000 a R$ 1.000.000):
+## Nível 4 - Perguntas Avançadas (R$ 200.000 a R$ 1.000.000):
 
 -2 perguntas finais (total: R$ 1.000.000).
 Pergunta 14: R$ 200.000
@@ -36,7 +36,7 @@ TOTAL : 15 perguntas
 
 Banco de perguntas:
 
-***Nível 1: Perguntas Fáceis
+## Nível 1: Perguntas Fáceis
 
 Qual é a capital do Brasil?
 A) Rio de Janeiro
@@ -101,7 +101,7 @@ C) Real
 D) Peso
 Resposta: C) Real
 
-***Nível 2: Perguntas Moderadas
+## Nível 2: Perguntas Moderadas
 
 Qual é a fórmula química da água?
 A) H2O
@@ -160,7 +160,7 @@ C) Espanha
 D) Alemanha
 Resposta: B) França
 
-***Nível 3: Perguntas Difíceis
+## Nível 3: Perguntas Difíceis
 
 Quem foi o primeiro homem a pisar na Lua?
 A) Buzz Aldrin
@@ -225,7 +225,7 @@ C) Sol
 D) Sirius
 Resposta: C) Sol
 
-***Nível 4: Perguntas Avançadas
+## Nível 4: Perguntas Avançadas
 
 Qual é a velocidade da luz no vácuo?
 A) 299.792 km/s

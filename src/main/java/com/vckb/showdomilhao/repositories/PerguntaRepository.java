@@ -1,8 +1,8 @@
-package com.vckb.showdomilhao.repository;
+package com.vckb.showdomilhao.repositories;
 
 
 
-import com.vckb.showdomilhao.entity.Pergunta;
+import com.vckb.showdomilhao.entities.Pergunta;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.List;

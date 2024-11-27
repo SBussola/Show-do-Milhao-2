@@ -1,10 +1,10 @@
 package com.vckb.showdomilhao.config;
 
 
-import com.vckb.showdomilhao.entity.Nivel;
-import com.vckb.showdomilhao.entity.Pergunta;
-import com.vckb.showdomilhao.repository.NivelRepository;
-import com.vckb.showdomilhao.repository.PerguntaRepository;
+import com.vckb.showdomilhao.entities.Nivel;
+import com.vckb.showdomilhao.entities.Pergunta;
+import com.vckb.showdomilhao.repositories.NivelRepository;
+import com.vckb.showdomilhao.repositories.PerguntaRepository;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

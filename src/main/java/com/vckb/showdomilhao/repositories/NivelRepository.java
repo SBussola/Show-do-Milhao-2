@@ -1,6 +1,6 @@
-package com.vckb.showdomilhao.repository;
+package com.vckb.showdomilhao.repositories;
 
-import com.vckb.showdomilhao.entity.Nivel;
+import com.vckb.showdomilhao.entities.Nivel;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 public interface NivelRepository extends JpaRepository<Nivel, Long> {
