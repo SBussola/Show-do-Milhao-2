@@ -1,15 +1,15 @@
 package com.vckb.showdomilhao.entities;
 
 
-import java.util.List;
-
-import com.fasterxml.jackson.annotation.JsonBackReference;
 import com.fasterxml.jackson.annotation.JsonManagedReference;
+import com.vckb.showdomilhao.enums.Nivel;
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.Setter;
+
+import java.util.List;
 
 @Getter
 @Setter
@@ -24,12 +24,9 @@ public class Pergunta {
 
     private String pergunta;
 
-    @ManyToOne
-    @JoinColumn(name = "nivel_id")
-    @JsonBackReference("nivel-pergunta")
     private Nivel nivel;
 
-    @OneToMany
+    @OneToMany(cascade = CascadeType.PERSIST)
     @JsonManagedReference("pergunta-alternativa")
     private List<Alternativa> alternativas;
 
