@@ -1,19 +1,22 @@
 package com.vckb.showdomilhao.controllers;
 
-import com.vckb.showdomilhao.entities.Pergunta;
-import com.vckb.showdomilhao.enums.Nivel;
-import com.vckb.showdomilhao.repositories.PerguntaRepository;
+import java.util.Collections;
+import java.util.List;
+
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.web.bind.annotation.CrossOrigin;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import java.util.Collections;
-import java.util.List;
+import com.vckb.showdomilhao.entities.Pergunta;
+import com.vckb.showdomilhao.enums.Nivel;
+import com.vckb.showdomilhao.repositories.PerguntaRepository;
 
 @RestController
 @RequestMapping("/perguntas")
+@CrossOrigin("*")
 public class PerguntasController {
 
     @Autowired
